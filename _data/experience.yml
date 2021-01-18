@@ -1,11 +1,11 @@
 # Jobs
-# VP of Global Communications
+# System Administrator 
 - company: ZAP - Satellite TV and ISP
   position: System Administrator
   duration: Apr, 2020 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: I am responsible for the implementation and management of linux, windows, provisioning of virtual machines, clustered services, relational database systems (Mysql, Oracle, PostgreSQL) and noSQL (MongoDB). I am also responsible for the maintenance of the hardware that covers it DELL RACK SERVERS and ENCLOUSURE, HP RACK SERVER and ENCLOUSURE and many others.	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
+# Computer Science Student
 - company: ISPTEC - Instituto Superior Politecnico de Tecnologia e Ciencias
   position: Database Administrator
   duration:  2016 &mdash; 2017
@@ -13,7 +13,7 @@
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
+- company: Freelance
+  position: Python Developer
   duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: With a strong background in programaming, I've been developed web application with flask framework including API rest, and desktop aplication with PyQt. 
