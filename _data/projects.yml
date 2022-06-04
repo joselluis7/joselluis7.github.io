@@ -1,16 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Agrohouse
+- project: Agrohouse - El campo en la palma de tus manos
+  role: Backend Developer
+  duration: 2020 &mdash; 2021
+  url: "https://agrohouse.com.py/"
+  description: Mobile application for Paraguayan agriculture to be able to manipulate all field information
+# APP
+- project: IP Convertor
+  role: Creator
+  duration: 2019 &mdash; Present
+  url: "http://ipconvertor.pythonanywhere.com/"
+  description: Small app to calculate subnets

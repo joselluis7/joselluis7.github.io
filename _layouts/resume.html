@@ -209,13 +209,13 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Languages</h2>
         </header>
 
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            {% for language in site.data.languages %}
+            <li><a href={{ language.url }} itemprop="url">{{ language.description }}</a></li>
             {% endfor %}
           </ul>
         </div>
