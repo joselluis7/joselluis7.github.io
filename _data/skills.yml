@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: LINGUAGENS e FRAMEWORKS
+  description: PYTHON, SHELL SCRIPT, JAVASCRIPT, FLASK, HTML,CSS
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: DATA BASES
+  description: MySQL (Master-Slave, Multi-Master), POSTGRESQL, ORACLE, MongoDB (ReplicaSet), REDIS (Redis cluster)
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: GENNERAL TOOLS
+  description: Elastic Stack, Naemon (NRPE), IDRAC, ILO, PROXMOX VE, Apache, Docker, Haproxy
