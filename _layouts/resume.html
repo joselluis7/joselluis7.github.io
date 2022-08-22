@@ -156,7 +156,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <!-- <p class="resume-item-copy">{{ recognition.summary }}</p> -->
         </div>
         {% endfor %}
 
@@ -164,24 +164,24 @@
       <!-- end Recognition -->
       {% endif %}
 
-      {% if site.resume_section_associations %}
-      <!-- begin Associations -->
+      {% if site.resume_section_trainings %}
+      <!-- begin Trainings -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Certifications</h2>
         </header>
 
-        {% for association in site.data.associations %}
+        {% for association in site.data.trainings %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
-          <p class="resume-item-copy">{{ association.summary }}</p>
+          <!-- <p class="resume-item-copy">{{ association.summary }}</p> -->
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Associations -->
+      <!-- end Trainings -->
       {% endif %}
 
       {% if site.resume_section_interests %}
