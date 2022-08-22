@@ -1,4 +1,22 @@
-# Interests
-- description: Human rights and world affairs
-- description: Music (baritone saxiphonist)
-- description: Linguistics
+# Professional Training [Associations]
+# comment out the urls if you do not wish to display them
+
+- organization: Complete DevOps Ansible Automation Training
+  role: Udemy
+  year: 2022
+  #url: https://www.peta.org/
+  #summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+
+
+- organization: "Docker and Kubernets: The Practical Guide"
+  role: Udemy
+  year: 2022
+  #url: http://campuspress.yale.edu/amnesty/
+  #summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+
+- organization: "MongoDB Basic Cluster Administration"
+  role: Udemy
+  year: 2021
+  #url: http://campuspress.yale.edu/amnesty/
+  #summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.

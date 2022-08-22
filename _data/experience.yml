@@ -3,7 +3,7 @@
 - company: ZAP - Satellite TV and ISP
   position: System Administrator
   duration: Apr, 2020 &mdash; Present
-  summary: I am responsible for the implementation and management of linux, windows, provisioning of virtual machines, clustered services, relational database systems (Mysql, Oracle, PostgreSQL) and noSQL (MongoDB). I am also responsible for the maintenance of the hardware that covers it DELL RACK SERVERS and ENCLOUSURE, HP RACK SERVER and ENCLOUSURE and many others.	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: I am responsible for the implementation and management of linux, windows, provisioning of virtual machines, clustered services, relational database systems (Mysql, Oracle, PostgreSQL) and noSQL (MongoDB). I am also responsible for the maintenance of the hardware that covers it DELL RACK SERVERS and ENCLOUSURE, HP RACK SERVER and ENCLOUSURE and many others.	#<ul class="resume-item-list"><li>Setup MySQL Replication</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Computer Science Student
 - company: ISPTEC - Instituto Superior Politecnico de Tecnologia e Ciencias
